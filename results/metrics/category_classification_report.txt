@@ -1,12 +1,12 @@
-Test Accuracy: 91.49%
+Test Accuracy: 89.36%
 
                         precision    recall  f1-score   support
 
-            ACCOUNTANT       1.00      0.92      0.96        12
-           ENGINEERING       0.90      0.75      0.82        12
-                    HR       0.92      1.00      0.96        11
-INFORMATION-TECHNOLOGY       0.86      1.00      0.92        12
+            ACCOUNTANT       1.00      0.83      0.91        12
+           ENGINEERING       0.91      0.83      0.87        12
+                    HR       1.00      0.91      0.95        11
+INFORMATION-TECHNOLOGY       0.75      1.00      0.86        12
 
-              accuracy                           0.91        47
-             macro avg       0.92      0.92      0.91        47
-          weighted avg       0.92      0.91      0.91        47
+              accuracy                           0.89        47
+             macro avg       0.91      0.89      0.90        47
+          weighted avg       0.91      0.89      0.90        47
