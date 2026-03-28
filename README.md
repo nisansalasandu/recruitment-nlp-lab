@@ -116,25 +116,25 @@ Raw Text
 ![TF-IDF Keywords](results/plots/resume_keywords_per_category.png)
 
 ### Word Clouds Per Resume Category
-![Word Clouds](results/plots/resume_category_wordclouds.png)
+![Word Clouds](results/plots/resume_wordclouds.png)
 
 ### Category Classifier — Training Curves
-![Category Training Curves](results/plots/cat_training_curves.png)
+![Category Training Curves](results/plots/cat_training_history.png)
 
 ### Experience Level Classifier — Training Curves
-![Experience Training Curves](results/plots/exp_training_curves.png)
+![Experience Training Curves](results/plots/exp_training_history.png)
 
 ### Confusion Matrices
 ![Confusion Matrices](results/plots/confusion_matrices_combined.png)
 
 ### Resume–Job Similarity Score Distribution
-![Score Distribution](results/plots/similarity_score_distribution.png)
+![Score Distribution](results/plots/match_score_distribution.png)
 
 ### Match Quality Heatmap — Category × Experience Level
 ![Match Heatmap](results/plots/match_heatmap_category_experience.png)
 
 ### Top Matched Job Titles Per Resume Category
-![Top Matched Titles](results/plots/top_matched_job_titles_per_category.png)
+![Top Matched Titles](results/plots/top_matched_jobs_per_category.png)
 
 ---
 
